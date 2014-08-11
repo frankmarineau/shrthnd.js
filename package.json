@@ -1,0 +1,27 @@
+{
+  "name": "shrthnd",
+  "version": "0.0.1",
+  "description": "Makes your CSS files lighter and more readable by converting and combining CSS properties into their shorthand versions when possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankmarineau/shrthnd.js"
+  },
+  "keywords": [
+    "css",
+    "shorthand",
+    "properties"
+  ],
+  "author": "Francis Marineau <francis.marineau@hotmail.com> (http://volume7.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankmarineau/shrthnd.js/issues"
+  },
+  "homepage": "https://github.com/frankmarineau/shrthnd.js",
+  "dependencies": {
+    "css": "^2.1.0"
+  }
+}
