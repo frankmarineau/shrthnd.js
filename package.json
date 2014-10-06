@@ -1,6 +1,6 @@
 {
   "name": "shrthnd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes your CSS files lighter and more readable by converting and combining CSS properties into their shorthand versions when possible.",
   "main": "index.js",
   "files": [
