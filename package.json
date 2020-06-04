@@ -1,6 +1,6 @@
 {
-  "name": "shrthnd",
-  "version": "0.0.6",
+  "name": "shrt-css",
+  "version": "0.1.1",
   "description": "Makes your CSS files lighter and more readable by converting and combining CSS properties into their shorthand versions when possible.",
   "main": "index.js",
   "bin": "bin/index.js",
